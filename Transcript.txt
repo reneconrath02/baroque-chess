@@ -1,0 +1,267 @@
+Rene is playing as white! Caissa is playing as black!
+
+c l i w k i l f 
+p p p p p p p p 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - P 
+- - - - - - - - 
+P P P P P P P - 
+F L I W K I L C 
+BLACK's move
+
+c l i w k i l f 
+p p - p p p p p 
+- - - - - - - - 
+- - p - - - - - 
+- - - - - - - P 
+- - - - - - - - 
+P P P P P P P - 
+F L I W K I L C 
+WHITE's move
+
+Caissa says:  This is a good day for all of us.
+
+c l i w k i l f 
+p p - p p p p p 
+- - - - - - - - 
+P - p - - - - - 
+- - - - - - - P 
+- - - - - - - - 
+- P P P P P P - 
+F L I W K I L C 
+BLACK's move
+
+c l i w k i l f 
+p p - p p - p p 
+- - - - - - - - 
+P - p - - - - - 
+- - - - - - - P 
+- - - - - p - - 
+- P P P P P P - 
+F L I W K I L C 
+WHITE's move
+
+Caissa says:  I am going to be the one to take the
+
+c l i w k i l f 
+p p - p p - p p 
+- - - - - - - - 
+P P p - - - - - 
+- - - - - - - P 
+- - - - - p - - 
+- - P P P P P - 
+F L I W K I L C 
+BLACK's move
+
+c l i w k i l f 
+p p - - p - p p 
+- - - - - - - - 
+P P p - - - - - 
+- - - p - - - P 
+- - - - - p - - 
+- - P P P P P - 
+F L I W K I L C 
+WHITE's move
+
+Caissa says:  I will not allow you to attack! I will
+
+c l i w k i l f 
+p p - - p - p p 
+- - - - - - - - 
+P P p - - - - - 
+- - - p - - P P 
+- - - - - p - - 
+- - P P P P - - 
+F L I W K I L C 
+BLACK's move
+
+c l i w k i l f 
+p p - - p - p - 
+- - - - - - - p 
+P P p - - - - - 
+- - - p - - P P 
+- - - - - p - - 
+- - P P P P - - 
+F L I W K I L C 
+WHITE's move
+
+Caissa says:  I'm not sure if it's a joke or
+
+c l i w k i l f 
+p p - - p - p - 
+- - - - - - - p 
+P P p - - - - - 
+- - - p - - P P 
+- - - - - p - - 
+P - - P P P - - 
+F L I W K I L C 
+BLACK's move
+
+c l i w k i l - 
+p p - - p - p f 
+- - - - - - - p 
+P P p - - - - - 
+- - - p - - P P 
+- - - - - p - - 
+P - - P P P - - 
+F L I W K I L C 
+WHITE's move
+
+Caissa says:  I'm getting tired of this. I'm getting
+
+c l i w k i l - 
+p p - - p - p f 
+- - - - - - - p 
+P P p - - - - - 
+- - - p - - P P 
+- - - - - p - - 
+P - - P P P - L 
+F L I W K I - C 
+BLACK's move
+
+c - i w k i l - 
+p p - - p - p f 
+- - - - - - - p 
+P P p - - - - - 
+- - - p - - P P 
+- - - - - p l - 
+P - - P P P - L 
+F L I W K I - C 
+WHITE's move
+
+Caissa says:  You are the enemy. You are the enemy.
+
+c - i w k i l - 
+p p - - p - p f 
+- - - - - - - p 
+P P p - - - - - 
+- - - p - L P P 
+- - - - - p - - 
+P - - P P P - - 
+F L I W K I - C 
+BLACK's move
+
+c i - w k i l - 
+p p - - p - p f 
+- - - - - - - p 
+P P p - - - - - 
+- - - p - L P P 
+- - - - - p - - 
+P - - P P P - - 
+F L I W K I - C 
+WHITE's move
+
+Caissa says:  I will fight to the last!
+
+c i - w k i l - 
+p p - - p - p f 
+- - - - - - - p 
+P P p - - - - - 
+- - L - - - P P 
+- - - - - p - - 
+P - - P P P - - 
+F L I W K I - C 
+BLACK's move
+
+c i - w k i - - 
+p p - - p - p f 
+- - - - - - - p 
+P P p - - - - - 
+- - - - - - P P 
+- l - - - p - - 
+P - - P P P - - 
+F L I W K I - C 
+WHITE's move
+
+Caissa says:  You are not a fool.
+
+c i - w k i - - 
+p p - - p - p f 
+- - - - - - - p 
+P P p - - - - - 
+- L - - - - P P 
+- - - - - p - - 
+P - - P P P - - 
+F - I W K I - C 
+BLACK's move
+
+c i - w k - - - 
+p p - - p - p f 
+- - - - - i - p 
+P P p - - - - - 
+- L - - - - P P 
+- - - - - p - - 
+P - - P P P - - 
+F - I W K I - C 
+WHITE's move
+
+Caissa says:  You are the victor.
+
+c i - w k - - - 
+p p - - p - p f 
+- - - - - i - p 
+P P p - - - - - 
+- L - - - P - P 
+- - - - - - - - 
+P - - P P P - - 
+F - I W K I - C 
+BLACK's move
+
+c i - w k - - - 
+p p - - p - p - 
+- - - - - i - p 
+P P p - - - - - 
+- L - - - P - P 
+- - - - - - - - 
+P - - P P P - - 
+F f I W K I - C 
+WHITE's move
+
+Caissa says:  I'm not going to let you down. You
+
+c i - w k - - - 
+p p - - p - p - 
+- - - - - i - p 
+P P p - - - - - 
+- L - - - P - P 
+- - - - - - - C 
+P - - P P P - - 
+F f I W K I - - 
+BLACK's move
+
+c i - w k - - - 
+p - - p p - p - 
+- - - - - i - p 
+P P p - - - - - 
+- L - - - P - P 
+- - - - - - - C 
+P - - P P P - - 
+F f I W K I - - 
+WHITE's move
+
+Caissa says:  I'll give up now, or prepare to be
+
+c i - w k - - - 
+p - - p p - p - 
+- - - - - i - p 
+P P p - - - - - 
+- L - - - P - P 
+- C - - - - - - 
+P - - P P P - - 
+F - I W K I - - 
+BLACK's move
+
+- i - w k - - - 
+p - - p p - p - 
+- - - - - i - p 
+P P p - - - - - 
+- L - - - P - P 
+- C - - - - - - 
+P - - P P P - - 
+F - I - - I - c 
+WHITE's move
+
+Caissa says:  You are now on the ropes. I will not
+
+The winner is BLACK
